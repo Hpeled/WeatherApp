@@ -37,7 +37,7 @@ const Header = () => {
                   marginTop: "4px",
                 }}
               >
-                WeatherApp
+                Hp WeatherApp
               </span>
             </Navbar.Brand>
           </Link>
